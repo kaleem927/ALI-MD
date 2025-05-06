@@ -22,9 +22,9 @@ cmd({
         // Check if the command is used in a group
         if (!isGroup) return reply("❌ This command can only be used in groups.");
         // Only admins or the owner can use this command
-        if (!isAdmins && !isOwner) return reply("*📛 σɴℓʏ gʀσᴜᴘ α∂мιɴs σʀ тнє σωɴєʀ ᴄαɴ ᴜsє тнιѕ ᴄσммαɴ∂.*");
+        if (!isAdmins && !isOwner) return reply("*📛 𓆩💀𝙆𝘼𝙇𝙀𝙀𝙈𝙅𝘼𝙉𝙈𝙊𝘿𝙎💀𓆪.*");
         // Check if the bot has admin privileges
-        if (!isBotAdmins) return reply("*📛 ι ɴєє∂ тσ вє αɴ α∂мιɴ тσ кι¢к мємвєʀs.*");
+        if (!isBotAdmins) return reply("*📛кαℓєємzι∂∂ι.*");
         
         // Determine the target user using reply or mention
         let target;
